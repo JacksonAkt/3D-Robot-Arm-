@@ -44,7 +44,7 @@ The circuit schematic was designed to organize power routing and signal connecti
 <img width="1044" height="766" alt="Raw-Schematics" src="https://github.com/user-attachments/assets/cca2e4b3-45fd-43ce-8bb9-648207f6e0e6" />
 The schematic defines the electrical connections between voltage regulation, power distribution, and the external peripherals connected to the robot arm.
 
-[![BOM](https://img.shields.io/badge/BOM-Excel_File-green?style=for-the-badge&logo=microsoft-excel)](./PCB/BOM.xlsx)
+[BOM](./PCB/BOM.xlsx)
 
 Circuit Simulation (LTspice)
 Before fabrication, the circuit was simulated in LTspice to verify the expected electrical behavior and validate component selection.
