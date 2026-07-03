@@ -1,5 +1,5 @@
 #include <Servo.h>
-#include <IRremote.hpp>
+#include <IRremote.h>
 
 
 
@@ -38,7 +38,7 @@ int XNsensor = A9;
 int XSsensor = A8; 
 int YNsensor = A11;
 int YSsensor = A10; 
-int ZNsensor = 53;
+int ZNsensor = 52;
 int ZSsensor = 50; 
 
 int ANsensor = 43;
@@ -270,4 +270,3 @@ void rotateX() {
 }
 */
 
--
