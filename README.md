@@ -81,8 +81,8 @@ Ease of assembly
 
 PCB Fabrication
 The final PCB was manufactured and assembled by soldering all electronic components onto the fabricated board.
-
-The completed PCB provides a compact, reliable, and organized solution for integrating the robot arm's electrical system.
+<img width="4032" height="3024" alt="PCB" src="https://github.com/user-attachments/assets/61035ff7-3959-4853-9760-cd29a4bdb9b0" />
+The completed PCB provides a compact, reliable, and organized solution for integrating the robot arm's electrical system. By replacing the original prototype connections with the PCB, my power systems has reduced 80 grams in weight.
 
 
 
